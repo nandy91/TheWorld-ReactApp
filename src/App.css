@@ -1,11 +1,47 @@
 body {
   margin: 0;
   padding: 0;
-  box-sizing:border-box;
+ 
+}
+p{
+  font-size: 10px;
 }
 .App{
   display:flex;
   flex-direction: column;
   padding: 10px 50px;
   align-items: center;
+}
+.search{
+        width: 100%;
+        padding: 12px 24px;
+        border-radius: 20px transparent;
+        background: #f3f3f3;
+        border: transparent;
+        font-size: 14px;
+        line-height: 12px; 
+}
+.search-bar{
+  display:flex;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    cursor:pointer;
+  }
+.li{
+  font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
+  border-bottom: 1px solid #ccc;
+  
+}
+.content {
+  list-style-type: none;
+  padding: 10px 20px;
+}
+.content-hide {
+  display: none;
+}
+.error{
+  padding: 0px 10px;
 }
