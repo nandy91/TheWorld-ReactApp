@@ -1,3 +1,13 @@
+THE WORLD APP
+This is a SPA made using React. We can search for Countries and get the information about these countries from the search bar provided. 
+The country information is fetched from a free API. To make HTTP requests I used the 'axios' library.
+This project helped learn the following react concepts:
+State and Props
+Asyn/Await
+Parent and Child Components
+Event Handling
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
