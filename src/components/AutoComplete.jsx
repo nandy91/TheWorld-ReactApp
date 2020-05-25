@@ -45,7 +45,8 @@ export class AutoComplete extends Component {
         this.setState(() => ({
             suggestions,
             text: value,
-            errorInfo:''
+            errorInfo:'',
+            showInfo: false
         }))
     }
     selectedText(value) {
@@ -77,7 +78,7 @@ export class AutoComplete extends Component {
         console.log("data fetched in autocomplete",data);
     }
   render() {
-      const { text, capital, region, showInfo,errorInfo } = this.state;
+      const { text, capital, region, showInfo, errorInfo } = this.state;
     return (
         <div>
             <div className="search-bar">
