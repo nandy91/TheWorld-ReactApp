@@ -89,9 +89,9 @@ export class AutoComplete extends Component {
 
             <div className={showInfo ? "content": "content-hide"}>
                 <ul><h2>Country Information:</h2></ul>
-                <li>Country:{text}</li>
-                <li>Capital:{capital}</li>
-                <li>Region:{region}</li>
+                <li><label>Country:</label>{text}</li>
+                <li><label>Capital:</label>{capital}</li>
+                <li><label>Continent:</label>{region}</li>
             </div>
             {(errorInfo.length > 0) && (<p className="error">{errorInfo}</p>)}
         </div>  
