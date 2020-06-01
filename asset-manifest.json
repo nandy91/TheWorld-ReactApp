@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TheWorld-ReactApp/static/css/main.b6307d72.chunk.css",
+    "main.js": "/TheWorld-ReactApp/static/js/main.10d51f34.chunk.js",
+    "main.js.map": "/TheWorld-ReactApp/static/js/main.10d51f34.chunk.js.map",
+    "runtime-main.js": "/TheWorld-ReactApp/static/js/runtime-main.4fbff4b0.js",
+    "runtime-main.js.map": "/TheWorld-ReactApp/static/js/runtime-main.4fbff4b0.js.map",
+    "static/js/2.a2c05458.chunk.js": "/TheWorld-ReactApp/static/js/2.a2c05458.chunk.js",
+    "static/js/2.a2c05458.chunk.js.map": "/TheWorld-ReactApp/static/js/2.a2c05458.chunk.js.map",
+    "index.html": "/TheWorld-ReactApp/index.html",
+    "precache-manifest.bf5a528effe63893036508451e49ed37.js": "/TheWorld-ReactApp/precache-manifest.bf5a528effe63893036508451e49ed37.js",
+    "service-worker.js": "/TheWorld-ReactApp/service-worker.js",
+    "static/css/main.b6307d72.chunk.css.map": "/TheWorld-ReactApp/static/css/main.b6307d72.chunk.css.map",
+    "static/js/2.a2c05458.chunk.js.LICENSE.txt": "/TheWorld-ReactApp/static/js/2.a2c05458.chunk.js.LICENSE.txt",
+    "static/media/world.jpg": "/TheWorld-ReactApp/static/media/world.6adaa174.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fbff4b0.js",
+    "static/js/2.a2c05458.chunk.js",
+    "static/css/main.b6307d72.chunk.css",
+    "static/js/main.10d51f34.chunk.js"
+  ]
+}
