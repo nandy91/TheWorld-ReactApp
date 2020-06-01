@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f8040732ea6c3e98666c89daad6da4e",
+    "revision": "8db499d7530e92cbf21d6ff39e3e1ba5",
     "url": "/TheWorld-ReactApp/index.html"
   },
   {
-    "revision": "ba80e83648b626bed484",
-    "url": "/TheWorld-ReactApp/static/css/main.b6307d72.chunk.css"
+    "revision": "35a34aef5a856fee1d8d",
+    "url": "/TheWorld-ReactApp/static/css/main.0357582c.chunk.css"
   },
   {
     "revision": "4e2b014d8e5a16259251",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TheWorld-ReactApp/static/js/2.a2c05458.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ba80e83648b626bed484",
+    "revision": "35a34aef5a856fee1d8d",
     "url": "/TheWorld-ReactApp/static/js/main.10d51f34.chunk.js"
   },
   {
